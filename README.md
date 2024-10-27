@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+estoy familiarizádome con github
+
+
 <!--
 **je2fx/je2fx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
