@@ -1,2 +1,3 @@
 este el primer archivo que voy a pushear
 
+antes hacer un push hay actualizar todos los archivos del remoto
