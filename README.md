@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 estoy familiarizádome con github
+prueba de visualizacion escrito desde github
 
 
 <!--
