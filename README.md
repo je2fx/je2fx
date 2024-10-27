@@ -3,7 +3,7 @@
 estoy familiarizádome con github
 prueba de visualizacion escrito desde github
 
-
+edito esto para probar que no puedo hacer push sin hacer pull
 <!--
 **je2fx/je2fx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
