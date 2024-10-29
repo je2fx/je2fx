@@ -22,6 +22,6 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 ----
-Credit: [je2fx](www.github.com/je2fx)
+
 
 Last Edited on: 29/10/2024
