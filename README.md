@@ -8,7 +8,10 @@
 
 ```js
 
-https://img.shields.io/badge/python-advanced-blue
+python
+python
+advanced
+advanced
 
 
 class Bio extends SoftwareDeveloper {
