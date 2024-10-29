@@ -11,8 +11,7 @@ import SoftwareDeveloper from 'Je2fx';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Jeffrey';
-  title    = 'Full-Stack Development';
-  company  = 'Pipoca Digital | Remote';
+  title    = 'Full-Stack Development'| Ciber-Security;
   location = 'Valencia, Spain';
 }
 
