@@ -8,11 +8,6 @@
 
 ```js
 
-python
-python
-advanced
-advanced
-
 
 class Bio extends SoftwareDeveloper {
   name     = 'Jeffrey';
@@ -27,6 +22,6 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 ----
-Credit: [je2fx](https://github.com/je2fx)
+Credit: [je2fx](www.github.com/je2fx)
 
 Last Edited on: 29/10/2024
