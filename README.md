@@ -1,8 +1,5 @@
-## Hi there 👋
+                                                                  ## Hi there 👋
 
-My name is Jeffrey I' m from Paris / France 
-
-And now I'm living in Spain 
 
 
 <p align="center">
@@ -10,17 +7,17 @@ And now I'm living in Spain
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'Je2fx';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
+  name     = 'Jeffrey';
+  title    = 'Full-Stack Development';
   company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  location = 'Valencia, Spain';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
+  languages  = ['Python', 'HTLM'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
