@@ -16,16 +16,16 @@ https://as2.ftcdn.net/v2/jpg/00/69/83/17/1000_F_69831748_x0ahG2Ewz1uLFZzTxjV79fa
 ```js
 
 
-class Bio extends SoftwareDeveloper {
+About me {
   name     = 'Jeffrey';
   title    = 'Full-Stack Development'| Ciber-Security;
   location = 'Valencia, Spain';
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['Python', 'HTLM'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+Competences{
+  languages  = ['Python', 'HTLM5', SCSS/Css3, Javascript];
+  databases  = ['MySQL'];
+  frameworks = [vanilla];
 }
 ```
 ----
